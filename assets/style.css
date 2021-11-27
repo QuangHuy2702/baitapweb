@@ -1,0 +1,17 @@
+* {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-hover:hover{
+    opacity: 0.6;
+}
+
+.login-form {
+    border: 1px solid black;
+    border-radius: 10px;
+}
